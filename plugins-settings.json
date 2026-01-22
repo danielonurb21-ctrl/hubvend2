@@ -27,5 +27,28 @@
         "designId": "86f88cb3-1e85-4481-802e-f8faa51f5e47",
         "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
         "publicData": {}
+    },
+    "1fa0dd68-5069-436c-9a7d-3b54c340f1fa": {
+        "id": "1488f783-e116-4240-86a2-1dba7f8220f0",
+        "name": "Supabase Auth",
+        "designId": "86f88cb3-1e85-4481-802e-f8faa51f5e47",
+        "pluginId": "1fa0dd68-5069-436c-9a7d-3b54c340f1fa",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlzbW1oYXllZmFneHRuZGd6a2lnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjYwNTExMTUsImV4cCI6MjA4MTYyNzExNX0.cMKquc90LiAjV-boBGLlezOIlIVMBbldJi0n6OU349I",
+            "projectUrl": "https://ismmhayefagxtndgzkig.supabase.co",
+            "customDomain": "",
+            "environments": {
+                "production": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlzbW1oYXllZmFneHRuZGd6a2lnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjYwNTExMTUsImV4cCI6MjA4MTYyNzExNX0.cMKquc90LiAjV-boBGLlezOIlIVMBbldJi0n6OU349I",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://ismmhayefagxtndgzkig.supabase.co",
+                    "customDomain": "",
+                    "baseProjectRef": "ismmhayefagxtndgzkig"
+                }
+            },
+            "afterForbiddenPageId": "1db0471d-496d-4b34-a732-0059deff06d5",
+            "afterNotSignInPageId": "25890333-c5fd-4a48-9b6e-42f51a4d25fb"
+        }
     }
 }
